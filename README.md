@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab8ff370-5472-460b-86b7-ebd743d119db"width="500">
+  <img src="https://github.com/user-attachments/assets/2767f8e5-0f3f-4629-ab7d-d4f3983e282d"width="300">
 </p>
 <p align="center">
-" Hey Tsugino . . . . . "
+>_<
 </p>
-
 
 
