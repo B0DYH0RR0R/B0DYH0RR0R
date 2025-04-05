@@ -6,5 +6,3 @@
   draw on straw page!!
 </p>
 
-<font color="purple"> >-< </font>
-
