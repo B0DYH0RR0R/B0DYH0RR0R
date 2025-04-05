@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  draw on straw page!!
+  ^_^
 </p>
 
